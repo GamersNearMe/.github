@@ -8,7 +8,7 @@ Welcome to Gamers Near Me, where we offer a range of final year projects tailore
 
 At Gamers Near Me, we are passionate about gaming and technology. Our services include software development, web development, game development, ethical hacking, and YouTube live streaming. We connect local gamers and foster a thriving gaming community.
 
-![About Us](./)
+![About Us](https://via.placeholder.com/1200x100?text=About+Us)
 
 ## Objectives and Goals
 
@@ -99,17 +99,30 @@ Check out our project showcase for a detailed view of our offerings:
 
 - **[Visit Our Presentation](https://gamersnearme.my.canva.site/)**: Explore our comprehensive presentation of final year projects and business model.
 
-## Files
+![1](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/1.png)
+![2](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/2.png)
+![3](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/3.png)
+![4](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/4.png)
+![5](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/5.png)
+![6](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/6.png)
+![7](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/7.png)
+![8](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/8.png)
+![9](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/9.png)
+![10](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/10.png)
+![11](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/11.png)
+![12](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/12.png)
+![13](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/13.png)
+![14](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/14.png)
+![15](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/15.png)
+![16](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/16.png)
+![17](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/17.png)
 
-Here are some sample files and resources from our local directory:
-
-![Business Model Pivot](https://raw.githubusercontent.com/GamersNearMe/Gamers-Near-Me/main/.github/profile/Gamers%20Near%20Me%20business-model-pivot/1.png)
-
-*(Note: Ensure that the file paths are correctly set up in your GitHub repository for the images to display properly.)*
 
 
 **Earn Big with Our 20% Sale Commission!**  
 Sell our projects and enjoy substantial earnings.
+![Social Media Marketing Instagram Post](https://github.com/GamersNearMe/.github/blob/main/profile/Red%20White%20Modern%20Social%20Media%20Marketing%20Instagram%20Post.png)
+
 
 ## Benefits
 
