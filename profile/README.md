@@ -8,7 +8,7 @@ Welcome to Gamers Near Me, where we offer a range of final year projects tailore
 
 At Gamers Near Me, we are passionate about gaming and technology. Our services include software development, web development, game development, ethical hacking, and YouTube live streaming. We connect local gamers and foster a thriving gaming community.
 
-![About Us](https://via.placeholder.com/1200x100?text=About+Us)
+![About Us](./)
 
 ## Objectives and Goals
 
@@ -86,6 +86,28 @@ Our business model focuses on providing ready-made final year projects to studen
 
 ## 20% Sale Commission
 
+
+## What We Offer:
+- **Diverse Project Selection**: Access a variety of final year projects across multiple domains.
+- **Instant Access**: Get immediate access to project files and documentation.
+- **Customizable Solutions**: Tailor projects to fit your specific requirements.
+- **Expert Support**: Benefit from our professional support to ensure your project's success.
+
+## Project Showcase
+
+Check out our project showcase for a detailed view of our offerings:
+
+- **[Visit Our Presentation](https://gamersnearme.my.canva.site/)**: Explore our comprehensive presentation of final year projects and business model.
+
+## Files
+
+Here are some sample files and resources from our local directory:
+
+![Business Model Pivot](https://raw.githubusercontent.com/GamersNearMe/Gamers-Near-Me/main/.github/profile/Gamers%20Near%20Me%20business-model-pivot/1.png)
+
+*(Note: Ensure that the file paths are correctly set up in your GitHub repository for the images to display properly.)*
+
+
 **Earn Big with Our 20% Sale Commission!**  
 Sell our projects and enjoy substantial earnings.
 
@@ -99,6 +121,7 @@ Sell our projects and enjoy substantial earnings.
 **Calculation Example**: Sell for ₹1000, earn ₹200
 
 ![Sale Commission](https://via.placeholder.com/1200x100?text=Sale+Commission)
+
 
 For more details and to start your journey with Gamers Near Me, visit our [website](https://gamersnearme.odoo.com) or follow us on our social media channels:
 
