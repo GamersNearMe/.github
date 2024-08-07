@@ -84,9 +84,6 @@ Our business model focuses on providing ready-made final year projects to studen
 2. **Enhanced Support**: Offer comprehensive support to address customer needs effectively.
 3. **Continuous Improvement**: Regularly update project offerings and services to stay current with trends.
 
-## 20% Sale Commission
-
-
 ## What We Offer:
 - **Diverse Project Selection**: Access a variety of final year projects across multiple domains.
 - **Instant Access**: Get immediate access to project files and documentation.
@@ -118,11 +115,11 @@ Check out our project showcase for a detailed view of our offerings:
 ![17](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/17.png)
 
 
-
-**Earn Big with Our 20% Sale Commission!**  
-Sell our projects and enjoy substantial earnings.
 ![Social Media Marketing Instagram Post](https://github.com/GamersNearMe/.github/blob/main/profile/Red%20White%20Modern%20Social%20Media%20Marketing%20Instagram%20Post.png)
 
+## 20% Sale Commission
+**Earn Big with Our 20% Sale Commission!**  
+Sell our projects and enjoy substantial earnings.
 
 ## Benefits
 
