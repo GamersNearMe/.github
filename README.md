@@ -84,8 +84,40 @@ Our business model focuses on providing ready-made final year projects to studen
 2. **Enhanced Support**: Offer comprehensive support to address customer needs effectively.
 3. **Continuous Improvement**: Regularly update project offerings and services to stay current with trends.
 
-## 20% Sale Commission
+## What We Offer:
+- **Diverse Project Selection**: Access a variety of final year projects across multiple domains.
+- **Instant Access**: Get immediate access to project files and documentation.
+- **Customizable Solutions**: Tailor projects to fit your specific requirements.
+- **Expert Support**: Benefit from our professional support to ensure your project's success.
 
+## Project Showcase
+
+Check out our project showcase for a detailed view of our offerings:
+
+- **[Visit Our Presentation](https://gamersnearme.my.canva.site/)**: Explore our comprehensive presentation of final year projects and business model.
+
+![1](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/1.png)
+![2](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/2.png)
+![3](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/3.png)
+![4](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/4.png)
+![5](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/5.png)
+![6](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/6.png)
+![7](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/7.png)
+![8](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/8.png)
+![9](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/9.png)
+![10](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/10.png)
+![11](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/11.png)
+![12](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/12.png)
+![13](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/13.png)
+![14](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/14.png)
+![15](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/15.png)
+![16](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/16.png)
+![17](https://github.com/GamersNearMe/.github/blob/main/profile/Gamers%20Near%20Me%20%20business-model-pivot/17.png)
+
+
+![Social Media Marketing Instagram Post](https://github.com/GamersNearMe/.github/blob/main/profile/Red%20White%20Modern%20Social%20Media%20Marketing%20Instagram%20Post.png)
+
+## 20% Sale Commission
 **Earn Big with Our 20% Sale Commission!**  
 Sell our projects and enjoy substantial earnings.
 
@@ -99,6 +131,7 @@ Sell our projects and enjoy substantial earnings.
 **Calculation Example**: Sell for ₹1000, earn ₹200
 
 ![Sale Commission](https://via.placeholder.com/1200x100?text=Sale+Commission)
+
 
 For more details and to start your journey with Gamers Near Me, visit our [website](https://gamersnearme.odoo.com) or follow us on our social media channels:
 
